@@ -30,6 +30,7 @@ def circulate():
     print("After circulating the values are:",result)
 ``` 
 ## Output:
-!["output"](/output.png)
+![image](https://github.com/jishnusankaran/Circulate-the-values-of-N-variables/assets/144979369/1c0b4435-2d7d-48c1-877f-6a7ff33820ef)
+
 ## Result:
 Thus the python for circulate the values of n varaibles is executed successfully
